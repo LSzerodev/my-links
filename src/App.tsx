@@ -17,13 +17,13 @@ const profileLinks: ProfileLink[] = [
   {
     title: "Gihub",
     subtitle: "Código e repositórios",
-    href: "#",
+    href: "https://github.com/LSzerodev",
     mode: "external",
   },
   {
     title: "LinkedIn",
     subtitle: "Perfil e trajetória",
-    href: "#",
+    href: "https://www.linkedin.com/in/lsfllps/",
     mode: "external",
   },
   {
